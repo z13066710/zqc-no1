@@ -1,5 +1,5 @@
 package com.kgc.pojo;
-
+//zqc 
 public class Bank {
     private String name;
     private Integer moeny;
